@@ -63,3 +63,12 @@ input[type=password]{
 input:hover{
     background-color: rgb(217, 247, 247);
 }
+h2{
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(9, 237, 74);
+}
+p{
+    text-align: center;
+    color: rgb(0, 11, 11);
+}
